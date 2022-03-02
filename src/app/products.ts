@@ -27,9 +27,9 @@ export const products = [
   {
     id: 4,
     name: 'Monitor LG Ultrawide 29',
-    price: 1278.76,
+    price: 1278,
     description: 'Monitor ultrawide de 29 polegadas',
-  },
+  }
 ];
 
 /*
